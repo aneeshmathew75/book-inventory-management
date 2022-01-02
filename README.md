@@ -18,6 +18,11 @@ A simple booking inventory management system with the CRUB functionality's
         │    └── logout.php
         │    └── signup.inc.php
         │    └── update.inc.inc.php
+	├──  screen_short
+        │    ├── 01
+	│    ├── 02
+	│    ├── 03
+	│    ├── 04
 	├──  bookreg.php
 	├──  delete.php
 	├──  index.php 
@@ -41,13 +46,13 @@ A simple booking inventory management system with the CRUB functionality's
 
 # Screenshort's
  ## index.php
-<img src="" width="800px"></img>
+<img src="https://github.com/aneeshmathew75/book-inventory-management/blob/main/screen_short/01.png" height="500px" width="1000px"></img>
 ## update.php
-<img src="" width="800px"></img>
+<img src="https://github.com/aneeshmathew75/book-inventory-management/blob/main/screen_short/02.png" height="500px" width="1000px"></img>
 ## insert.php
-<img src="" width="800px"></img>
+<img src="https://github.com/aneeshmathew75/book-inventory-management/blob/main/screen_short/03.png" height="500px" width="1000px"></img>
 ## delete.php
-<img src="" width="800px"></img>
+<img src="https://github.com/aneeshmathew75/book-inventory-management/blob/main/screen_short/04.png" height="500px" width="1000px"></img>
 
 
 
