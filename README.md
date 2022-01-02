@@ -39,6 +39,18 @@ A simple booking inventory management system with the CRUB functionality's
 4. Open the htdocs folder in the xamp folder. Copy paste the folder book_inventory.
 5. Open the browser (chrome), type localhost/book_inventory and you should see the index page of the website.
 
+# Screenshort's
+ ## index.php
+<img src="" width="800px"></img>
+## update.php
+<img src="" width="800px"></img>
+## insert.php
+<img src="" width="800px"></img>
+## delete.php
+<img src="" width="800px"></img>
+
+
+
 
 *******************************************************************************************************************************************
 Contact for any queries: mathewaneesh75@gmail.com
