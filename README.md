@@ -34,7 +34,7 @@ A simple booking inventory management system with the CRUB functionality's
 	├──  IOT.jpg / image
 	├──  python.jpg / image
 	├──  python.jpg /image
-	├──  
+	├──  book.sql / Database
 	├──  
 	└──  
 ## SETUP				
